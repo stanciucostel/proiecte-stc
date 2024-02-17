@@ -1,0 +1,68 @@
+.titlu-principal {
+    color: #ffffff;
+    font-size: 30px;
+    background-image: url(
+"assets/baner3.png");
+    padding: 20px;
+    background-size: 880px 80px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-top: -10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    display: block;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+footer {
+  background-color: #1b2d39;
+  color: #ffffff;
+  padding: 20px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  margin-bottom: -10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.right {
+  position: absolute;
+  margin-right: 5px;
+  right: 0px;
+  width: 300px;
+  border: 3px solid #000000;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.glob {
+  margin-top: -25px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  border-radius: 55px;
+}
+
+.textimg {
+  color: #ff0000;
+}
+
+.textm2 {
+  color: white;
+  background-image: url("assets/w10.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  padding: 10px;
+}
